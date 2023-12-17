@@ -7,5 +7,5 @@ The fast adoption of UPI and its growing importance in the economy motivated us 
 In summary, conducting time series analysis and forecasting of UPI transactions has the potential to  optimize operations, inform decision-making, shape policies, enhance consumer experiences, and  contribute to economic growth and financial inclusion. It's important to integrate these insights into  strategic planning and policy formulation to leverage the benefits effectively. 
 
 # Objective: 
-# #The primary objective was to leverage data analysis and time series forecasting technique to gain  comprehensive insights and detailed pattern of UPI transaction and to develop a forecasting model  to predict UPI transaction. The problem we aimed to solve was the uncertainty in transaction  volumes, which made it challenging for businesses to allocate resources efficiently and for financial  institutions to manage risks." 
-## This helps decision maker to make informed decision and realise the power of digital payments.
+# The primary objective was to leverage data analysis and time series forecasting technique to gain  comprehensive insights and detailed pattern of UPI transaction and to develop a forecasting model  to predict UPI transaction. The problem we aimed to solve was the uncertainty in transaction  volumes, which made it challenging for businesses to allocate resources efficiently and for financial  institutions to manage risks." 
+This helps decision maker to make informed decision and realise the power of digital payments.
